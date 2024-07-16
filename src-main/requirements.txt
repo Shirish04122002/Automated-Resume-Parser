@@ -1,0 +1,13 @@
+
+transformers
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+PyPDF2
+pdfminer.six
+# command to install dependencies
+# pip install -r requirements.txt
